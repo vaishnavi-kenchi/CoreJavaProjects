@@ -43,7 +43,9 @@ Enter your guess: 62
 
 Correct! Attempts: 3
 
-Contact
+## Contact
+
 Name:Vaishnavi -kenchi
+
 Email-Kenchivaishnavi2605@gmail.com
 

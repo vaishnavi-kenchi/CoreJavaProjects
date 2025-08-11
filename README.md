@@ -16,6 +16,7 @@ A simple Java console-based game where the user tries to guess a randomly genera
 # 🎮Technologies Used
 
 -Java -Core programming language
+
 -JDK -(Java Development Kit)	To compile and run Java code
 -Scanner Class- To read user input from the console
 -Math.random() -To generate random numbers
@@ -24,7 +25,6 @@ A simple Java console-based game where the user tries to guess a randomly genera
 ## 🛠️ Sample Output
 
 🎮 Welcome to the Number Guessing Game!
-
 Guess a number between 1 and 100
 Enter your guess: 45 
 Too Low 

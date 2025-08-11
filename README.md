@@ -18,8 +18,11 @@ A simple Java console-based game where the user tries to guess a randomly genera
 -Java -Core programming language
 
 -JDK -(Java Development Kit)	To compile and run Java code
+
 -Scanner Class- To read user input from the console
+
 -Math.random() -To generate random numbers
+
 -Eclipse IDE / IntelliJ / VS Code-To write and manage the code
 
 ## 🛠️ Sample Output

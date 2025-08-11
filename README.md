@@ -24,6 +24,7 @@ A simple Java console-based game where the user tries to guess a randomly genera
 ## 🛠️ Sample Output
 
 🎮 Welcome to the Number Guessing Game!
+
 Guess a number between 1 and 100
 Enter your guess: 45 
 Too Low 
